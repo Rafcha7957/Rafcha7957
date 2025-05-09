@@ -11,3 +11,4 @@ My skills:
 ![Static Badge](https://img.shields.io/badge/Typescript-blue)
 ![Static Badge](https://img.shields.io/badge/C-white)
 ![Static Badge](https://img.shields.io/badge/Pyt-blue)![Static Badge](https://img.shields.io/badge/hon-yellow)
+![Static Badge](https://img.shields.io/badge/C++-white)
